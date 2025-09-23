@@ -1,4 +1,4 @@
-[ֆֆ.html](https://github.com/user-attachments/files/22492290/default.html)
+
 <!DOCTYPE html>
 <html lang="hy">
 <head>
