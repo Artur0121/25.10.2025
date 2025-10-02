@@ -205,7 +205,7 @@
     <div class="event">
       <h3>🍽️ Ռեստորան</h3>
       <img src="restaurant.jpg" alt="Ռեստորան">
-      <p>Ժամը՝ 18:00</p>
+      <p>Ժամը՝ 17:00</p>
       <a href="https://maps.app.goo.gl/MfGsyDTba316jarD7" target="_blank">Բացել Maps-ում</a>
     </div>
   </div>
