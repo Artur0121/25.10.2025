@@ -187,11 +187,8 @@
   <!-- 3D Slideshow -->
   <div class="slideshow">
     <div class="slide-card"><img src="photo1.jpg" alt=""></div>
-    <div class="slide-card"><img src="photo2.jpg" alt=""></div>
-    <div class="slide-card"><img src="photo3.jpg" alt=""></div>
-    <div class="slide-card"><img src="photo4.jpg" alt=""></div>
-    <div class="slide-card"><img src="photo5.jpg" alt=""></div>
-  </div>
+
+  
 
   <!-- Schedule -->
   <div class="schedule">
