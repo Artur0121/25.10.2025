@@ -186,7 +186,7 @@
 
   <!-- 3D Slideshow -->
   <div class="slideshow">
-    <div class="slide-card"><img src="photo1.jpg" alt=""></div>
+    <div class="slide-card"><img src="IMG-20250923-WA0003.jpg" alt=""></div>
 
   
 
